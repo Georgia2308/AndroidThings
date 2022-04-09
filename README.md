@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 # AndroidThings
->>>>>>> b380fcf3fc830c45150921c2bf6703ebf8ced8f2
 <h1>Etilotest</h1>
 
 <h2>Project Description</h2>
