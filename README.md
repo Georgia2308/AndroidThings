@@ -5,7 +5,7 @@
 Mijloc de detectie bazat pe o placuta Arduino Nano cu senzor care semnaleaza prezenta etanolului, a gazului metan sau a altor gaze periculoase in aer. Placuta Arduino comunica cu o aplicatie mobila prin intermediul unui modul Bluetooth HC-05. Aplicatia afiseaza pentru utilizator concentratia gazului detectata de senzor.
 
 <br><br>
-<center><img src="" width="500px"></center>
+<center><img src="https://raw.githubusercontent.com/Georgia2308/AndroidThings/main/circuit.png" width="500px"></center>
 <br>
 <center><img src="" width="200px"></center>
 
