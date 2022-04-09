@@ -7,7 +7,7 @@ Mijloc de detectie bazat pe o placuta Arduino Nano cu senzor care semnaleaza pre
 <br><br>
 <center><img src="https://raw.githubusercontent.com/Georgia2308/AndroidThings/main/circuit.png" width="500px"></center>
 <br>
-<center><img src="https://raw.githubusercontent.com/Georgia2308/AndroidThings/main/20220410_005710.jpg" width="200px"></center>
+<center><img src="https://raw.githubusercontent.com/Georgia2308/AndroidThings/main/20220410_005710.jpg" width="500px"></center>
 
 <h2>Hardware Requirements</h2>
 <ul>
