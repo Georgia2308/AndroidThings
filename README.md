@@ -21,8 +21,8 @@ Mijloc de detectie bazat pe o placuta Arduino Nano cu senzor care semnaleaza pre
 
 <h2>Software Requirements</h2>
 <ul>
-    <li>Script Arduino - </li>
-    <li>Aplicatie Android - </li>
+    <li>Script Arduino - https://github.com/Georgia2308/AndroidThings/blob/main/ggi.ino</li>
+    <li>Aplicatie Android - https://github.com/Georgia2308/AndroidThings/tree/main/Etilotest</li>
 </ul>
 
 <h2>Setup and Build</h2>
